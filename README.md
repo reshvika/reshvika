@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Maria Reshvika Reddy Gade
+## Hi there, I'm Maria Reshvika Reddy Gade
 
 <!--
 **reshvika/reshvika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
