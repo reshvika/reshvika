@@ -19,7 +19,7 @@
 
 ### 🛠️ Tech Skills
 - **Languages**: Python, Java, C, SQL, HTML/CSS, JavaScript  
-- **AI/ML Tools**: Scikit-learn, TensorFlow, PyTorch, OpenCV, Pandas, NumPy  
+- **AI/ML Tools**: Scikit-learn, TensorFlow, PyTorch, OpenCV, Pandas, NumPy, Gen AI  
 - **Full Stack**: MongoDB, Express.js, Angular, Node.js  
 - **Others**: Git, GitHub, Jupyter, Power BI, MS Excel
 
