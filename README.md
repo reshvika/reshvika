@@ -4,46 +4,47 @@
 **reshvika/reshvika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-🎓 I'm currently pursuing B.Tech in Artificial Intelligence at **Anurag University**  
-💡 A curious learner with a passion for blending **technology**, **creativity**, and **impact-driven problem solving**
+🎓 Currently pursuing B.Tech in Artificial Intelligence at **Anurag University**  
+💡 Passionate about combining **AI**, **ML**, and **Product Thinking** to solve real-world problems
 
 ---
 
 ### 🎯 What I'm Aiming For
-- 🤖 AI & Machine Learning Research and Development roles  
-- 🧠 AI Product Management roles focused on user-driven innovation  
-- 🚀 Building intelligent, scalable, and human-centric solutions  
-- 💬 Learning to align tech innovation with product strategy
+- 🤖 AI & Machine Learning roles focused on innovation and impact  
+- 🧠 AI Product Management, bridging the gap between users and technology  
+- 🚀 Creating intelligent, scalable, user-centered solutions  
+- 📚 Continuously learning to build, lead, and improve AI-driven products
 
 ---
 
 ### 🛠️ Tech Skills
 - **Languages**: Python, Java, C, SQL, HTML/CSS, JavaScript  
-- **Libraries/Tools**: Pandas, NumPy, Scikit-learn, OpenCV, TensorFlow, PyTorch  
+- **AI/ML Tools**: Scikit-learn, TensorFlow, PyTorch, OpenCV, Pandas, NumPy  
 - **Full Stack**: MongoDB, Express.js, Angular, Node.js  
-- **Others**: Git, GitHub, Power BI, Jupyter, Microsoft Excel
+- **Others**: Git, GitHub, Jupyter, Power BI, MS Excel
 
 ---
 
 ### 👩‍💻 My Journey So Far
-- 📝 **Content Lead** at TechAmuse — managing content strategy and engagement  
-- 🎙️ Volunteer at **TEDx Hyderabad** — ensuring smooth registrations and guest experience  
-- 💡 **SmartHacks Coordinator** — led AI hackathon planning and mentor engagement  
-- 🧑‍🤝‍🧑 Passionate team player who believes in learning through collaboration
+- ✍️ **Content Lead** @ TechAmuse – created strategy and campaigns for tech club visibility  
+- 🎙️ **TEDx Hyderabad** Volunteer – managed registrations and guest coordination  
+- 🛠️ **SmartHacks Coordinator** – organized an AI hackathon with end-to-end planning  
+- 🌱 Actively learning product thinking, design, and growth for AI applications
 
 ---
 
-### 📫 How to Reach Me
-- 📧 marireshvika2005@gmail.com  
-- 💼 LinkedIn: [Add your URL here]
+### 📫 Let's Connect
+- 📧 Email: marireshvika2005@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/reshvika-reddy-5b886524b](https://www.linkedin.com/in/reshvika-reddy-5b886524b/)
 
 ---
 
 ### ⚡ A Few Fun Facts
-- I love turning complex AI concepts into real-world applications  
-- My strength lies in simplifying tech for diverse audiences  
-- I thrive at the intersection of **technology**, **people**, and **strategy**
+- I simplify AI concepts and love telling stories with data  
+- My sweet spot: where **tech**, **people**, and **strategy** meet  
+- I believe **curiosity beats perfection** — every single time!
 
 ---
 
-_Thanks for stopping by! I'm always open to opportunities, learning, and collaboration._ 🚀
+_Thanks for visiting my profile! Let’s connect, collaborate, and build something impactful._ 🚀
+
