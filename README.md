@@ -28,7 +28,6 @@
 ### 👩‍💻 My Journey So Far
 - ✍️ **Content Lead** @ TechAmuse – created strategy and campaigns for tech club visibility  
 - 🎙️ **TEDx Hyderabad** Volunteer – managed registrations and guest coordination  
-- 🛠️ **SmartHacks Coordinator** – organized an AI hackathon with end-to-end planning  
 - 🌱 Actively learning product thinking, design, and growth for AI applications
 
 ---
