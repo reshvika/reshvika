@@ -33,7 +33,7 @@
 ---
 
 ### 📫 Let's Connect
-- 📧 Email: marireshvika2005@gmail.com  
+- 📧 Email: mariareshvika2005@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/reshvika-reddy-5b886524b](https://www.linkedin.com/in/reshvika-reddy-5b886524b/)
 
 ---
