@@ -1,6 +1,6 @@
 # Hi, I'm Maria Reshvika Reddy Gade  
 
-**B.Tech in Artificial Intelligence | Anurag University | **  
+**B.Tech in Artificial Intelligence | Anurag University**  
 AI Engineer in the making — passionate about blending machine learning, data, and product thinking to create practical, intelligent systems.
 
 ---
