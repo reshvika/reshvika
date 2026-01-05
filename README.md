@@ -1,7 +1,7 @@
 # Hi, I'm Maria Reshvika Reddy Gade  
 
 **B.Tech in Artificial Intelligence | Anurag University**  
-AI Engineer in the making — passionate about blending machine learning, data, and product thinking to create practical, intelligent systems.
+AI Engineer in the making — passionate about blending product thinking,machine learning and data to create practical, intelligent systems.
 
 ---
 
@@ -27,6 +27,7 @@ I enjoy solving problems at the intersection of **technology, data, and human be
 ## Skills and Tools  
 
 **Programming:** Python, Java, C, SQL, HTML, CSS, JavaScript  
+**Project & Execution:** Agile & SDLC, Cross-Functional Collaboration,Project Planning & Coordination,Risk Identification & Mitigation,Documentation & Reporting  
 **Machine Learning:** Scikit-learn, TensorFlow, PyTorch, OpenCV, Pandas, NumPy  
 **Generative AI:** Prompt design, LLM applications, embeddings  
 **Full Stack:** Node.js, Express.js, Angular, MongoDB  
@@ -44,15 +45,10 @@ Collaborated with technical teams to simplify and present complex AI concepts to
 **Volunteer – TEDx Hyderabad**  
 Managed registrations and guest coordination, ensuring seamless event experience for attendees.  
 Enhanced organizational and teamwork skills while contributing to a high-impact community event.  
-
+**Event Management Team Member – KRIYA Passionate Events** 
+Coordinated event logistics, registrations, and operations to ensure smooth execution of multiple events.
+Strengthened planning, communication, and teamwork skills while supporting high energy, large-scale event experiences.
 ---
-
-## Projects  
-
-**AutoGrader+** – An AI-based evaluation system for descriptive answers using TF-IDF, SBERT, and regression-based scoring.  
-**VisionAssist** – A computer vision and NLP model that helps visually impaired users interpret surroundings through audio feedback.  
-**DataSense** – Data analytics dashboard integrating Power BI and machine learning for energy trend forecasting.  
-**MediStore** – A Java-based online medicine management system with SQL backend and authentication modules.  
 
 ---
 
@@ -63,12 +59,6 @@ Enhanced organizational and teamwork skills while contributing to a high-impact 
 - Collaboration across disciplines to deliver lasting impact  
 
 ---
-
-## Currently Exploring  
-
-- Large Language Model fine-tuning and evaluation  
-- AI product lifecycle and roadmap design  
-- Human-AI interaction and explainable systems  
 
 ---
 
