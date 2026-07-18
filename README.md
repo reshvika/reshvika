@@ -1,78 +1,97 @@
-# Hi, I'm Maria Reshvika Reddy Gade  
+# Hi, I'm Maria Reshvika Reddy Gade
 
-**B.Tech in Artificial Intelligence | Anurag University**  
-AI Engineer in the making — passionate about blending product thinking,machine learning and data to create practical, intelligent systems.
+**Incoming M.S. in Information Management (MSIM) Student | University of Illinois Urbana-Champaign (UIUC)**
+**B.Tech in Artificial Intelligence | Anurag University**
 
----
-
-## About Me  
-
-I’m driven by the idea that AI should not just automate, but **augment human understanding**.  
-My work focuses on building solutions that are technically sound, explainable, and meaningful to real users.  
-I’m equally comfortable fine-tuning models as I am discussing how AI can shape better user experiences.  
-
-I enjoy solving problems at the intersection of **technology, data, and human behavior** — whether it’s improving education systems, simplifying evaluations, or enhancing accessibility through AI.
+AI Engineer in the making — passionate about blending product thinking, machine learning, and data to create practical, intelligent systems.
 
 ---
 
-## Current Focus  
+## About Me
 
-- Building **AI models** that are fair, interpretable, and adaptable.  
-- Exploring **Generative AI** and **LLMs** for content generation and assessment.  
-- Developing an understanding of **AI Product Management** to bridge technical and user needs.  
-- Continuously learning to apply ML techniques for real-world impact.  
+I'm driven by the idea that AI should not just automate, but **augment human understanding**.
 
----
+Currently graduated from **B.Tech in Artificial Intelligence at Anurag University** and joining the **University of Illinois Urbana-Champaign (UIUC)** for my **Master of Science in Information Management (MSIM)**, I'm passionate about building solutions that are technically sound, explainable, and meaningful to real users.
 
-## Skills and Tools  
+I'm equally comfortable fine-tuning models as I am discussing how AI can shape better user experiences.
 
-**Programming:** Python, Java, C, SQL, HTML, CSS, JavaScript  
-**Project & Execution:** Agile & SDLC, Cross-Functional Collaboration,Project Planning & Coordination,Risk Identification & Mitigation,Documentation & Reporting  
-**Machine Learning:** Scikit-learn, TensorFlow, PyTorch, OpenCV, Pandas, NumPy  
-**Generative AI:** Prompt design, LLM applications, embeddings  
-**Full Stack:** Node.js, Express.js, Angular, MongoDB  
-**Visualization:** Power BI, Matplotlib, MS Excel  
-**Tools:** Git, GitHub, Jupyter Notebook, VS Code  
+I enjoy solving problems at the intersection of **technology, data, and human behavior**—whether it's improving education systems, simplifying evaluations, or enhancing accessibility through AI.
 
 ---
 
-## Experience and Initiatives  
+## Current Focus
 
-**Content Lead – TechAmuse (AI Club, Anurag University)**  
-Led the communication and content strategy to increase visibility for tech events and AI initiatives.  
-Collaborated with technical teams to simplify and present complex AI concepts to a wider audience.  
-
-**Volunteer – TEDx Hyderabad**  
-Managed registrations and guest coordination, ensuring seamless event experience for attendees.  
-Enhanced organizational and teamwork skills while contributing to a high-impact community event.  
-**Event Management Team Member – KRIYA Passionate Events** 
-Coordinated event logistics, registrations, and operations to ensure smooth execution of multiple events.
-Strengthened planning, communication, and teamwork skills while supporting high energy, large-scale event experiences.
----
+* Building **AI models** that are fair, interpretable, and adaptable.
+* Exploring **Generative AI** and **Large Language Models (LLMs)** for content generation and intelligent assessment.
+* Deepening my expertise in **Information Management, AI Product Management, and Data Analytics** at **UIUC**.
+* Applying machine learning and AI to solve real-world challenges with measurable impact.
 
 ---
 
-## What I Value  
+## Skills and Tools
 
-- Clear, interpretable, and ethical AI development  
-- User-centered thinking and meaningful problem-solving  
-- Collaboration across disciplines to deliver lasting impact  
+**Programming:** Python, Java, C, SQL, HTML, CSS, JavaScript
+
+**Project & Execution:** Agile & SDLC, Cross-Functional Collaboration, Project Planning & Coordination, Risk Identification & Mitigation, Documentation & Reporting
+
+**Machine Learning:** Scikit-learn, TensorFlow, PyTorch, OpenCV, Pandas, NumPy
+
+**Generative AI:** Prompt Engineering, LLM Applications, Embeddings
+
+**Full Stack:** Node.js, Express.js, Angular, MongoDB
+
+**Visualization:** Power BI, Matplotlib, Microsoft Excel
+
+**Tools:** Git, GitHub, Jupyter Notebook, VS Code
 
 ---
 
+## Experience and Initiatives
+
+### AI Engineer — Nekko AI
+
+* Develop AI-powered applications using machine learning and Generative AI technologies.
+* Build and optimize LLM-based workflows, prompt engineering pipelines, and intelligent automation solutions.
+* Collaborate with cross-functional teams to design scalable, user-centric AI products.
+* Research, evaluate, and integrate modern AI models and frameworks to improve performance and usability.
+
+### Content Lead — TechAmuse (AI Club, Anurag University)
+
+* Led communication and content strategy to increase visibility for AI events and technical initiatives.
+* Collaborated with technical teams to simplify complex AI concepts for broader audiences.
+
+### Volunteer — TEDx Hyderabad
+
+* Managed registrations and guest coordination to ensure a seamless event experience.
+* Strengthened teamwork, communication, and organizational skills in a fast-paced environment.
+
+### Event Management Team Member — KRIYA Passionate Events
+
+* Coordinated event logistics, registrations, and operations for multiple large-scale events.
+* Enhanced planning, execution, and collaboration skills while delivering engaging event experiences.
+
 ---
 
-## Connect With Me  
+## What I Value
 
-**Email:** [mariareshvika2005@gmail.com](mailto:mariareshvika2005@gmail.com)  
-**LinkedIn:** [linkedin.com/in/reshvika-reddy-5b886524b](https://linkedin.com/in/reshvika-reddy-5b886524b)  
+* Ethical, transparent, and interpretable AI
+* User-centered product thinking
+* Data-driven decision making
+* Collaboration across disciplines
+* Building technology with meaningful real-world impact
 
 ---
 
-### Final Note  
+## Connect With Me
 
-I see AI as a field that’s evolving beyond models — it’s about people, purpose, and progress.  
-I’m here to learn, build, and contribute to that journey.
+**Email:** [mariareshvika@gmail.com](mailto:mariareshvika@gmail.com)
 
+**LinkedIn:** linkedin.com/in/reshvika-reddy-5b886524b
 
+---
 
+## Final Note
+
+As I begin my graduate journey at **UIUC**, I'm excited to combine **Artificial Intelligence, Information Management, and Product Thinking** to build technology that is intelligent, responsible, and genuinely useful.
+
+I believe the future of AI isn't just about building better models—it's about creating solutions that empower people, solve meaningful problems, and make a lasting impact.
